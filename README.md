@@ -1,4 +1,5 @@
-Sure! Here’s a guide on how to design basic digital logic circuits like logic gates, adders, and multiplexers using Verilog, along with steps for simulation in VLSI software.
+Sure! Here’s a guide on how to design basic digital logic circuits like logic gates, adders, and multiplexers using Verilog, along with steps for simulation in VLSI softwar
+
 
 ### 1. **Logic Gates**
 
